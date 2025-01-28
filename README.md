@@ -1,2 +1,2 @@
 # Projeto-integrador-I
-primeiro Projeto Integrador - Univesp
+Primeiro Projeto Integrador - Univesp , formado por um grupo de oito alunos - trabalho em equipe.
